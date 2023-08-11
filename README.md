@@ -38,7 +38,7 @@ Target endpoint is http-services port (8080) and scraping prometheus metrics eve
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/mainlevel-consulting/mis/connect-monitoring/ml-gitlab-ci-pipelines-exporter.git
+git remote add origin https://github.com/mitspap123/ml-gitlab-ci-pipelines-exporter.git
 git branch -M main
 git push -uf origin main
 ```
