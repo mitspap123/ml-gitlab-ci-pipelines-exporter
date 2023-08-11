@@ -38,6 +38,11 @@ Target endpoint is http-services port (8080) and scraping prometheus metrics eve
 
 In the dashboards folder there are two customly created Dashboards for monitoring Kubernetes Deployments & Statefulsets using the GitLab exporter to scrape metrics. If you want to use them, you need to download and upload in your Grafana instance.
 
+![Image3](https://github.com/mitspap123/ml-gitlab-ci-pipelines-exporter/blob/main/docs/kubernetes-deployments-exporter.png)
+<br>
+![Image4](https://github.com/mitspap123/ml-gitlab-ci-pipelines-exporter/blob/main/docs/kubernetes-statefulsets-exporter.png)
+<br>
+
 ## Git Project commands
 
 ```
