@@ -1,0 +1,12 @@
+apiVersion: monitoring.coreos.com/v1
+kind: ServiceMonitor
+metadata:
+  name: gitlab-ci-pipelines-exporter-web
+  namespace: monitoring
+spec:
+  endpoints:
+  - interval: 10s
+    port: http-web
+  selector:
+    matchLabels:
+      app: gitlab-ci-pipelines-exporter-web
