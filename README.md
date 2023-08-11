@@ -1,4 +1,4 @@
-![Gitlab](https://gitlab.com/mainlevel-consulting/mis/connect-monitoring/ml-gitlab-ci-pipelines-exporter/-/raw/main/docs/gitlab-logo-no-bkgrd-resized.png)
+![Gitlab](https://github.com/mitspap123/ml-gitlab-ci-pipelines-exporter/blob/main/docs/gitlab-logo-no-bkgrd-resized.png)
 
 ## The DevSecOps Platform Exporter
 
@@ -8,9 +8,9 @@ You can find more information on [GitLab docs](https://docs.gitlab.com/ee/ci/pip
 
 Here are some custom Grafana dashboards created for using those metrics. You can sort or filter by project, by ref (branch name) or by owner of the project.
 
-![Image1](https://gitlab.com/mainlevel-consulting/mis/connect-monitoring/ml-gitlab-ci-pipelines-exporter/-/raw/main/docs/running-failed-not-completed-pipelines.png)
+![Image1](https://github.com/mitspap123/ml-gitlab-ci-pipelines-exporter/blob/main/docs/running-failed-not-completed-pipelines.png)
 <br>
-![Image2](https://gitlab.com/mainlevel-consulting/mis/connect-monitoring/ml-gitlab-ci-pipelines-exporter/-/raw/main/docs/successfully-completed-pipelines.png)
+![Image2](https://github.com/mitspap123/ml-gitlab-ci-pipelines-exporter/blob/main/docs/successfully-completed-pipelines.png)
 <br>
 ## Install
 
