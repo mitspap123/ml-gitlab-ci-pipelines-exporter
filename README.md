@@ -34,6 +34,10 @@ Release Version v0.5.5
 - Service Monitor <br />
 Target endpoint is http-services port (8080) and scraping prometheus metrics every 10 seconds.
 
+### Dashboards
+
+In the dashboards folder there are two customly created Dashboards for monitoring Kubernetes Deployments & Statefulsets using the GitLab exporter to scrape metrics. If you want to use them, you need to download and upload in your Grafana instance.
+
 ## Git Project commands
 
 ```
